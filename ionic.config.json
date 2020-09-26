@@ -1,0 +1,7 @@
+{
+  "name": "drawer_ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
